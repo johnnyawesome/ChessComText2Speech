@@ -9,8 +9,8 @@
 // @grant        none
 // @icon         https://raw.githubusercontent.com/johnnyawesome/MyLogo/master/MySkull32.ico
 // @icon64		 https://raw.githubusercontent.com/johnnyawesome/MyLogo/master/MySkull64.ico
-// @updateURL    https://github.com/johnnyawesome/ChessComText2Speech/ChessComText2Speech.user.js
-// @downloadURL  https://github.com/johnnyawesome/ChessComText2Speech/ChessComText2Speech.user.js
+// @updateURL    https://github.com/johnnyawesome/ChessComText2Speech/raw/main/ChessComText2Speech.user.js
+// @downloadURL  https://github.com/johnnyawesome/ChessComText2Speech/raw/main/ChessComText2Speech.user.js
 // ==/UserScript==
 
 'use strict';
