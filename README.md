@@ -1,5 +1,12 @@
-# ChessComText2Speech
-Reads the moves of games on chess.com out loud for practicing with a real chessboard (OTB)
+# Chess.com Text to speech
+
+This Tampermonkey / Greasemonkey Script reads the chess-moves of games on chess.com out loud for practicing with a real chessboard (OTB).
+
+Put a real chessboard on your table and practice "real" games.
+
+With the moves read to you, you don't have to constantly check the screen. Also, you get notified when your opponent moves (might take several minutes depending on the type of game you play).
+
+Good luck with your games!
 
 
 ## How to run the script
